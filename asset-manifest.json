@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/consulta-ubs/static/css/main.34a74554.css",
+    "main.js": "/consulta-ubs/static/js/main.f000a2cc.js",
+    "index.html": "/consulta-ubs/index.html",
+    "main.34a74554.css.map": "/consulta-ubs/static/css/main.34a74554.css.map",
+    "main.f000a2cc.js.map": "/consulta-ubs/static/js/main.f000a2cc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.34a74554.css",
+    "static/js/main.f000a2cc.js"
+  ]
+}
